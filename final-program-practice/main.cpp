@@ -3,28 +3,37 @@ using namespace std;
 
 int main()
 {
-//     // reverse & palindrome
-//    int num, orignalNum,reverse=0,lastDigit;
-//    cout<<"Enter a number: ";
-//    cin>>num;
+    //     // reverse & palindrome
+    //    int num, orignalNum,reverse=0,lastDigit;
+    //    cout<<"Enter a number: ";
+    //    cin>>num;
 
-//    orignalNum = num;
+    //    orignalNum = num;
 
-//    while(num > 0){
-//     lastDigit = num % 10;
-//     reverse = reverse * 10 + lastDigit;
-//     num = num/10;
-//    }
+    //    while(num > 0){
+    //     lastDigit = num % 10;
+    //     reverse = reverse * 10 + lastDigit;
+    //     num = num/10;
+    //    }
 
-//    cout<<"reverse of number is: "<<reverse<<endl;
+    //    cout<<"reverse of number is: "<<reverse<<endl;
 
-//    if(reverse == orignalNum){
-//     cout<<"Number is palindrome";
-// }
-// else{
-//        cout<<"Number is not palindrome";
+    //    if(reverse == orignalNum){
+    //     cout<<"Number is palindrome";
+    // }
+    // else{
+    //        cout<<"Number is not palindrome";
 
-//    }
+    //    }
 
+    // Factorial program
+    //  int num;
+    //  long long result = 1;
+    //  cout<<"enter a num: ";
+    //  cin>>num;
+    //  for(int i =1; i <= num; i++){
+    //     result =result *  i;
+    //  }
+    //  cout<<"result is: "<<result;
 
 }
