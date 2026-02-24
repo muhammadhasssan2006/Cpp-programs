@@ -1,0 +1,30 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+//     // reverse & palindrome
+//    int num, orignalNum,reverse=0,lastDigit;
+//    cout<<"Enter a number: ";
+//    cin>>num;
+
+//    orignalNum = num;
+
+//    while(num > 0){
+//     lastDigit = num % 10;
+//     reverse = reverse * 10 + lastDigit;
+//     num = num/10;
+//    }
+
+//    cout<<"reverse of number is: "<<reverse<<endl;
+
+//    if(reverse == orignalNum){
+//     cout<<"Number is palindrome";
+// }
+// else{
+//        cout<<"Number is not palindrome";
+
+//    }
+
+
+}
