@@ -108,4 +108,21 @@ int main()
 
     // cout << "max is: " << max << endl;
     // cout << "min is: " << min << endl;
+
+    // reverse of array
+   int n;
+   cout<<"enter length of array: ";
+   cin>>n;
+
+   int arr[n];
+   for(int i = 0; i<=n;i++){
+    cout<<"enter values of array: ";
+    cin>>arr[i];
+    // cout <<"entered value: "<< arr[i] <<endl;
+}
+
+cout<<"reversed array: ";
+for(int i = n;i>=0;i--){
+    cout<<arr[i]<<" ";
+}
 }
