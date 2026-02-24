@@ -67,17 +67,45 @@ int main()
 
     // }
 
-    // fibonacci series 
+    // fibonacci series
 
-  int num,a=0,b=1,next;
-  cout<<"enter a number: ";
-  cin>>num;
+    // int num, a = 0, b = 1, next;
+    // cout << "enter a number: ";
+    // cin >> num;
 
-  for(int i = 0; i <= num; i++){
-    cout<<a<<" ";
-    next= a+b;
-    a= b;
-    b=next;
-  }
-  
+    // for (int i = 0; i <= num; i++)
+    // {
+    //     cout << a << " ";
+    //     next = a + b;
+    //     a = b;
+    //     b = next;
+    // }
+    //   array min & max
+
+    // int n;
+    // cout << "enter length of array: ";
+    // cin >> n;
+    // int arr[n];
+    // for (int i = 0; i <= n; i++)
+    // {
+    //     cout << "enter values of array: ";
+    //     cin >> arr[i];
+    // }
+    // int max = arr[0];
+    // int min = arr[0];
+
+    // for (int i = 0; i <= n; i++)
+    // {
+    //     if (arr[i] > max)
+    //     {
+    //         max = arr[i];
+    //     }
+    //     if (arr[i] < min)
+    //     {
+    //         min = arr[i];
+    //     }
+    // }
+
+    // cout << "max is: " << max << endl;
+    // cout << "min is: " << min << endl;
 }
